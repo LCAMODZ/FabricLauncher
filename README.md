@@ -1,4 +1,4 @@
-# 🚀 Simple Fabric Launcher - Version Update Guide
+# Simple Fabric Launcher - Version Update Guide
 
 > **Current Version:** Minecraft 1.21.4 (Fabric)  
 > **Example Update:** Minecraft 1.21.4 → 1.21.8
