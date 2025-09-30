@@ -326,7 +326,7 @@ public class Main extends JFrame {
         progressSection.add(statusPanel, BorderLayout.NORTH);
         progressSection.add(progressBar, BorderLayout.CENTER);
 
-        launchButton = new JButton("SPIEL STARTEN") {
+        launchButton = new JButton("Start Game") {
             @Override
             protected void paintComponent(Graphics g) {
                 Graphics2D g2d = (Graphics2D) g;
