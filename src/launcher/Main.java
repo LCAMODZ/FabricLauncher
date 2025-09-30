@@ -12,8 +12,8 @@ import java.nio.file.Paths;
 public class Main extends JFrame {
 
     private static final Path MC_DIR = Paths.get(System.getenv("APPDATA"), ".minecraft");
-    private static final String VERSION_ID = "1.21.8";
-    private static final String ASSETS_ID = "26";
+    private static final String VERSION_ID = "1.21.9";
+    private static final String ASSETS_ID = "27";
 
 
     private static final Color BG_PRIMARY = new Color(24, 26, 30);
